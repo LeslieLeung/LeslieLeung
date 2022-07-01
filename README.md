@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeslieLeung)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeslieLeung&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Leslie%20Leung&api_domain=waka.ameow.xyz&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LeslieLeung/LeslieLeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
