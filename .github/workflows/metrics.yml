@@ -27,10 +27,10 @@ jobs:
           # Options
           user: LeslieLeung
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 5
           plugin_rss_source: https://ameow.xyz/rss.xml
           plugin_wakatime: yes
           plugin_wakatime_days: 7
