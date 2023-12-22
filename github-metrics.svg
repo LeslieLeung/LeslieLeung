@@ -152,8 +152,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">【收藏夹】AIOps</div>
-                                <div class="date">19 Nov 2023</div>
+                                <div class="title">猫鱼周刊 vol. 003 可交互的技术文章真是泰酷辣！</div>
+                                <div class="date">3 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -161,8 +161,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gin 路由命中问题</div>
-                                <div class="date">28 Jun 2023</div>
+                                <div class="title">【收藏夹】AIOps</div>
+                                <div class="date">19 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -179,8 +179,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">猫鱼周刊 vol. 001 新的开始</div>
-                                <div class="date">19 Nov 2023</div>
+                                <div class="title">Golang i18n 之格式化千分位</div>
+                                <div class="date">23 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -261,7 +261,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2023, 19:03:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 20:05:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
