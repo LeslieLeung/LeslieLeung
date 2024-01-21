@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+
+#### 📖 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#### ⏱️ This week I spent my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **LeslieLeung/LeslieLeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
