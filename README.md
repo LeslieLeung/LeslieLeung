@@ -3,11 +3,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions 小记](https://ameow.xyz/archives/github-actions)
 - [猫鱼周刊 vol. 009 Go 1.22 要来啦！](https://ameow.xyz/archives/weekly-009)
 - [猫鱼周刊 vol. 008 通知服务大乱斗](https://ameow.xyz/archives/weekly-008)
 - [猫鱼周刊 vol. 007 2024新年快乐！](https://ameow.xyz/archives/weekly-007)
 - [猫鱼周刊 vol. 006 年终总结时间到！](https://ameow.xyz/archives/weekly-006)
-- [我的 2023 年度总结](https://ameow.xyz/archives/2023-wrapup)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
