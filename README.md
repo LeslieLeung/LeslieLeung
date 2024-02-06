@@ -3,11 +3,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 011 程序员应该知道的心理学](https://ameow.xyz/archives/weekly-011)
 - [使用 GitLab 流水线进行 Go 代码静态检查](https://ameow.xyz/archives/gitlab-golang-ci-lint)
 - [猫鱼周刊 vol. 010 在线画图哪家强？](https://ameow.xyz/archives/weekly-010)
 - [GitHub Actions 小记](https://ameow.xyz/archives/github-actions)
 - [猫鱼周刊 vol. 009 Go 1.22 要来啦！](https://ameow.xyz/archives/weekly-009)
-- [猫鱼周刊 vol. 008 通知服务大乱斗](https://ameow.xyz/archives/weekly-008)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
