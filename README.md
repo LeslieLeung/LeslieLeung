@@ -3,11 +3,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 013 Go 的函数式编程](https://ameow.xyz/archives/weekly-013)
 - [Go 函数式编程：从一个 for 循环讲起](https://ameow.xyz/archives/go-functional-programming-intro)
 - [猫鱼周刊 vol. 012 新年快乐，龙马精神！](https://ameow.xyz/archives/weekly-012)
 - [猫鱼周刊 vol. 011 程序员应该知道的心理学](https://ameow.xyz/archives/weekly-011)
 - [使用 GitLab 流水线进行 Go 代码静态检查](https://ameow.xyz/archives/gitlab-golang-ci-lint)
-- [猫鱼周刊 vol. 010 在线画图哪家强？](https://ameow.xyz/archives/weekly-010)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
