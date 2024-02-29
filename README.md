@@ -3,11 +3,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我的信息源 2024](https://ameow.xyz/archives/info-source-2024)
 - [猫鱼周刊 vol. 014 技术无罪论](https://ameow.xyz/archives/weekly-014)
 - [poetry 入坑速记](https://ameow.xyz/archives/poetry-intro)
 - [猫鱼周刊 vol. 013 Go 的函数式编程](https://ameow.xyz/archives/weekly-013)
 - [Go 函数式编程：从一个 for 循环讲起](https://ameow.xyz/archives/go-functional-programming-intro)
-- [猫鱼周刊 vol. 012 新年快乐，龙马精神！](https://ameow.xyz/archives/weekly-012)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
