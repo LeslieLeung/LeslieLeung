@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔧 Backend engineer
+- 👨🏻‍💻 Write Go and Python
+- 🔭 Know a little something about ML, DL(specially in NLP)
+- 🐱 A cat by nature, but really don’t like eating fish(the food)
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
