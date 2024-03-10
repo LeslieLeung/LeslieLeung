@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 23 mins
+Total Time: 22 hrs 6 mins
 
-Go                19 hrs 43 mins  ██████████████████████░░░   88.09 %
-Markdown          1 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-PHP               0 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-unknown           0 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Go                19 hrs 45 mins  ██████████████████████▒░░   89.31 %
+Markdown          1 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+PHP               0 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+unknown           0 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Makefile          0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
