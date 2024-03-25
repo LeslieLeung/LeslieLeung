@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 017 LLM 该怎么落地？](https://ameow.xyz/archives/weekly-017)
 - [猫鱼周刊 vol. 016 万物归于 Docker ！](https://ameow.xyz/archives/weekly-016)
 - [猫鱼周刊 vol. 015 时间怎么越来越快？](https://ameow.xyz/archives/weekly-015)
 - [博客主题更换](https://ameow.xyz/archives/bo-ke-zhu-ti-geng-huan)
 - [我的信息源 2024](https://ameow.xyz/archives/info-source-2024)
-- [猫鱼周刊 vol. 014 技术无罪论](https://ameow.xyz/archives/weekly-014)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
