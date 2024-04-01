@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 018 LLM 入门指北](https://ameow.xyz/archives/weekly-018)
 - [使用 Go 开发跨平台应用要点](https://ameow.xyz/archives/go-multiplatform-takeaways)
 - [猫鱼周刊 vol. 017 LLM 该怎么落地？](https://ameow.xyz/archives/weekly-017)
 - [猫鱼周刊 vol. 016 万物归于 Docker ！](https://ameow.xyz/archives/weekly-016)
 - [猫鱼周刊 vol. 015 时间怎么越来越快？](https://ameow.xyz/archives/weekly-015)
-- [博客主题更换](https://ameow.xyz/archives/bo-ke-zhu-ti-geng-huan)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
