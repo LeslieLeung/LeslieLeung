@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [联手 Copilot，我在10个小时内上线了一个前端网站](https://ameow.xyz/archives/develop-a-frontend-site-with-copilot)
 - [猫鱼周刊 vol. 019 55年前的大型机](https://ameow.xyz/archives/weekly-019)
 - [LLM 选型](https://ameow.xyz/archives/llm-comparison)
 - [Semantic Code Search（以 Go 语言为例）](https://ameow.xyz/archives/semantic-code-search-a-go-repective)
 - [猫鱼周刊 vol. 018 LLM 入门指北](https://ameow.xyz/archives/weekly-018)
-- [使用 Go 开发跨平台应用要点](https://ameow.xyz/archives/go-multiplatform-takeaways)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
