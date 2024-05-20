@@ -7,7 +7,7 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [猫鱼周刊问答](https://ameow.xyz/archives/weekly-qa)
+- [猫鱼周刊 vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024)
 - [猫鱼周刊 vol. 023 新款 iPad 到底值不值得买？](https://ameow.xyz/archives/weekly-023)
 - [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022)
 - [猫鱼周刊 vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021)
