@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026)
 - [猫鱼周刊 vol. 025 正在加速崩塌的「中文」](https://ameow.xyz/archives/weekly-025)
 - [猫鱼周刊 vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024)
 - [猫鱼周刊 vol. 023 新款 iPad 到底值不值得买？](https://ameow.xyz/archives/weekly-023)
 - [猫鱼周刊 vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022)
-- [猫鱼周刊 vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
