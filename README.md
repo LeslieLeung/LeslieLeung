@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028)
 - [猫鱼周刊 vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027)
 - [Project Root Is All You Need](https://ameow.xyz/archives/project-root-is-all-you-need)
 - [LLM 超长小说文本总结](https://ameow.xyz/archives/llm-extra-long-text-summarize)
 - [猫鱼周刊 vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026)
-- [猫鱼周刊 vol. 025 正在加速崩塌的「中文」](https://ameow.xyz/archives/weekly-025)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
