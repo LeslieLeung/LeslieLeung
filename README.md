@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030)
 - [猫鱼周刊 vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029)
 - [猫鱼周刊 vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028)
 - [猫鱼周刊 vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027)
 - [Project Root Is All You Need](https://ameow.xyz/archives/project-root-is-all-you-need)
-- [LLM 超长小说文本总结](https://ameow.xyz/archives/llm-extra-long-text-summarize)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
