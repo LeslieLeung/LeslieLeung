@@ -7,7 +7,7 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [猫鱼周刊 vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/mao-yu-zhou-kan-vol.-031-code-review-you-yong-ma)
+- [猫鱼周刊 vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/weekly-031)
 - [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030)
 - [猫鱼周刊 vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029)
 - [猫鱼周刊 vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028)
