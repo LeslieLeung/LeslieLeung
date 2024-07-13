@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM 结构化输出](https://ameow.xyz/archives/llm-structural-output)
 - [猫鱼周刊 vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/weekly-031)
 - [猫鱼周刊 vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030)
 - [猫鱼周刊 vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029)
 - [猫鱼周刊 vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028)
-- [猫鱼周刊 vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
