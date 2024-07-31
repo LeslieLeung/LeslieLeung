@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [博客主题再换](https://ameow.xyz/archives/bo-ke-zhu-ti-zai-huan)
 - [博弈论和内卷、防御性编程](https://ameow.xyz/archives/game-theory-and-involution-anti-layoff-programming)
 - [猫鱼周刊 vol. 034 防御性编程还是防裁员编程](https://ameow.xyz/archives/weekly-034)
 - [在 Vercel 中部署 Python 项目](https://ameow.xyz/archives/deploy-python-project-on-vercel)
 - [猫鱼周刊 vol. 033 996 竟然是合法的！](https://ameow.xyz/archives/weekly-033)
-- [猫鱼周刊 vol. 032 蓝调时刻](https://ameow.xyz/archives/weekly-032)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
