@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 041 中秋快乐！](https://ameow.xyz/archives/weekly-041)
 - [猫鱼周刊 vol. 040 记录二战中沉没的每一艘船](https://ameow.xyz/archives/weekly-040)
 - [猫鱼周刊 vol. 039 能力成长的四个阶段](https://ameow.xyz/archives/weekly-039)
 - [猫鱼周刊 vol. 038 人生是旷野，不是轨道](https://ameow.xyz/archives/weekly-038)
 - [推特蓝 V（X Premium）开通教程](https://ameow.xyz/archives/subscribe-x-premium)
-- [猫鱼周刊 vol. 037 云服务厂商的赚钱法宝](https://ameow.xyz/archives/weekly-037)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
