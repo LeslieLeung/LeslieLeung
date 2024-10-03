@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 15 mins
+Total Time: 28 hrs 36 mins
 
-unknown           21 hrs 25 mins  ████████████████░░░░░░░░░   64.38 %
-PHP               5 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Python            2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-MySQL             1 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Markdown          0 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+unknown           18 hrs 14 mins  ████████████████░░░░░░░░░   63.78 %
+PHP               5 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Markdown          1 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+MySQL             1 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+SQL               0 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
