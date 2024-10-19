@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 25 mins
+Total Time: 21 hrs 24 mins
 
-PHP               10 hrs 29 mins  ████████████▒░░░░░░░░░░░░   48.98 %
-Go                7 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 %
-Markdown          1 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-unknown           0 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+PHP               10 hrs 59 mins  ████████████▓░░░░░░░░░░░░   51.32 %
+Go                6 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   31.83 %
+Markdown          1 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+unknown           1 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 Protocol Buffer   0 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
