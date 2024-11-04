@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 046 身份数据保护](https://ameow.xyz/archives/weekly-046)
 - [2024年双十一云服务优惠集合](https://ameow.xyz/archives/2024-double-11-cloud-service-sales)
 - [猫鱼周刊 vol. 045 技术无国界，但利益有](https://ameow.xyz/archives/weekly-045)
 - [猫鱼周刊 vol. 044 独立博客自省问卷](https://ameow.xyz/archives/weekly-044)
 - [独立博客自省问卷15题](https://ameow.xyz/archives/independent-blog-questionnaire)
-- [利用快捷指令实现短信转发](https://ameow.xyz/archives/sms-forwarding-with-apple-shortcuts)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
