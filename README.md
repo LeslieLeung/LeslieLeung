@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 048 世界是个巨大的草台班子](https://ameow.xyz/archives/weekly-048)
 - [猫鱼周刊 vol. 047 控烟条例](https://ameow.xyz/archives/weekly-047)
 - [排查 Linux 空间占用](https://ameow.xyz/archives/linux-storage-usage-troubleshoot)
 - [猫鱼周刊 vol. 046 身份数据保护](https://ameow.xyz/archives/weekly-046)
 - [2024年双十一&amp;黑五云服务优惠集合](https://ameow.xyz/archives/2024-double-11-cloud-service-sales)
-- [猫鱼周刊 vol. 045 技术无国界，但利益有](https://ameow.xyz/archives/weekly-045)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
