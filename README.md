@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Heltec T114 （带GPS）便携 Meshtastic 节点方案](https://ameow.xyz/archives/meshtastic-heltec-t114)
 - [猫鱼周刊 vol. 051 祛魅 AI](https://ameow.xyz/archives/weekly-051)
 - [猫鱼周刊 vol. 050 什么是好的面试问题？](https://ameow.xyz/archives/weekly-050)
 - [猫鱼周刊 vol. 049 养生营销号](https://ameow.xyz/archives/weekly-049)
 - [猫鱼周刊 vol. 048 世界是个巨大的草台班子](https://ameow.xyz/archives/weekly-048)
-- [猫鱼周刊 vol. 047 控烟条例](https://ameow.xyz/archives/weekly-047)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
