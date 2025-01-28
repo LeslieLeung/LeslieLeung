@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 43 mins
+Total Time: 8 hrs 4 mins
 
-PHP          6 hrs 55 mins   █████████████████▓░░░░░░░   71.17 %
-Go           2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-unknown      0 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-YAML         0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Prolog       0 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+PHP          5 hrs 0 mins    ███████████████▓░░░░░░░░░   62.13 %
+Go           2 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
+unknown      0 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+YAML         0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Prolog       0 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
