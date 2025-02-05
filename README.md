@@ -18,13 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hrs 17 mins
+Total Time: 0 hrs 17 mins
 
-YAML         0 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.23 %
-Go           0 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   31.10 %
-MySQL        0 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-SQL          0 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-PLAIN_TEXT   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go     0 hrs 15 mins   █████████████████████▓░░░   86.00 %
+YAML   0 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+JSON   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
