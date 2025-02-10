@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 055 城市旅游就是打卡吗？](https://ameow.xyz/archives/weekly-055)
 - [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054)
 - [猫鱼周刊 vol. 053 2025 新年快乐！](https://ameow.xyz/archives/weekly-053)
 - [2024 年度总结](https://ameow.xyz/archives/2024-wrapup)
 - [猫鱼周刊 vol. 052 OpenAI 也翻车，基础设施暴雷](https://ameow.xyz/archives/weekly-052)
-- [Heltec T114 （带GPS）便携 Meshtastic 节点方案](https://ameow.xyz/archives/meshtastic-heltec-t114)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
