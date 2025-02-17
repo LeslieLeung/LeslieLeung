@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 14 mins
+Total Time: 15 hrs 19 mins
 
-Markdown         5 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-Python           4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-C++              1 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Objective-C      1 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-PHP              1 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Python           4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+Markdown         3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+C++              1 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Objective-C      1 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+PHP              1 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
