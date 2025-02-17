@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056)
 - [2025.02.01 武功山游记](https://ameow.xyz/archives/2025-02-01-wugong-mountain)
 - [猫鱼周刊 vol. 055 城市旅游就是打卡吗？](https://ameow.xyz/archives/weekly-055)
 - [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054)
 - [猫鱼周刊 vol. 053 2025 新年快乐！](https://ameow.xyz/archives/weekly-053)
-- [2024 年度总结](https://ameow.xyz/archives/2024-wrapup)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
