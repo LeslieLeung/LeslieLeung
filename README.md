@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义](https://ameow.xyz/archives/weekly-058)
 - [猫鱼周刊 vol. 057 什么是推理语言大模型？](https://ameow.xyz/archives/weekly-057)
 - [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056)
 - [2025.02.01 武功山游记](https://ameow.xyz/archives/2025-02-01-wugong-mountain)
 - [猫鱼周刊 vol. 055 城市旅游就是打卡吗？](https://ameow.xyz/archives/weekly-055)
-- [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
