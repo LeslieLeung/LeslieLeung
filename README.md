@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Cursor 进行 Code Review（简易版）](https://ameow.xyz/archives/simple-code-review-with-cursor)
 - [猫鱼周刊 vol. 059 可拷的代码](https://ameow.xyz/archives/weekly-059)
 - [猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义](https://ameow.xyz/archives/weekly-058)
 - [猫鱼周刊 vol. 057 什么是推理语言大模型？](https://ameow.xyz/archives/weekly-057)
 - [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056)
-- [2025.02.01 武功山游记](https://ameow.xyz/archives/2025-02-01-wugong-mountain)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
