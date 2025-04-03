@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 18 mins
+Total Time: 9 hrs 12 mins
 
-PHP                        6 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.32 %
-Go                         4 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
-MySQL                      1 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-unknown                    0 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Prolog                     0 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+PHP                        5 hrs 0 mins    █████████████▓░░░░░░░░░░░   54.28 %
+Go                         3 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.25 %
+MySQL                      0 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JSON                       0 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+unknown                    0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
