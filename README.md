@@ -18,13 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 49 mins
+Total Time: 0 hrs 0 mins
 
-PHP                        1 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.74 %
-Go                         0 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   31.35 %
-MySQL                      0 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-JSON                       0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Docker                     0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
