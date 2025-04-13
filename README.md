@@ -18,9 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 7 mins
+Total Time: 0 hrs 54 mins
 
-Go   0 hrs 7 mins    █████████████████████████   100.00 %
+Go     0 hrs 46 mins   █████████████████████▓░░░   86.60 %
+JSON   0 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+YAML   0 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
