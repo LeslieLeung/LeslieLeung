@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062)
 - [猫鱼周刊 vol. 061 第二次机会](https://ameow.xyz/archives/weekly-061)
 - [猫鱼周刊 vol. 060 MCP 可能是通用人工智能的最后一公里](https://ameow.xyz/archives/weekly-060)
 - [使用 Cursor 进行 Code Review（简易版）](https://ameow.xyz/archives/simple-code-review-with-cursor)
 - [猫鱼周刊 vol. 059 可拷的代码](https://ameow.xyz/archives/weekly-059)
-- [猫鱼周刊 vol. 058 DeepSeek 的开源是一种大义](https://ameow.xyz/archives/weekly-058)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
