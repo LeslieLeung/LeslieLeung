@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 5 mins
+Total Time: 0 hrs 41 mins
 
-Markdown   2 hrs 40 mins   █████████████████████▓░░░   86.74 %
-Go         0 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-YAML       0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Markdown   0 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.32 %
+Go         0 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.95 %
+YAML       0 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
