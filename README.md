@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065)
 - [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064)
 - [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063)
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01)
 - [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062)
-- [猫鱼周刊 vol. 061 第二次机会](https://ameow.xyz/archives/weekly-061)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
