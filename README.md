@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tailscale DERP Server 简明部署教程（纯 IP 方式）](https://ameow.xyz/archives/tailscale-derp-server-deployment)
 - [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070)
 - [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069)
 - [猫鱼周刊 vol. 068 AI 写作到底是创作还是合成文字](https://ameow.xyz/archives/weekly-068)
 - [猫鱼周刊 vol. 067 世界无烟日](https://ameow.xyz/archives/weekly-067)
-- [暗盒 02](https://ameow.xyz/archives/film-roll-02)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
