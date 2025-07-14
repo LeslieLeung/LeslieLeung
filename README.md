@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 072 可持续的周刊作者](https://ameow.xyz/archives/weekly-072)
 - [macOS 命令完成后展示一条通知](https://ameow.xyz/archives/display-notification-after-command-finishes-macos)
 - [猫鱼周刊 vol. 071 热爱](https://ameow.xyz/archives/weekly-071)
 - [Tailscale DERP Server 简明部署教程（纯 IP 方式）](https://ameow.xyz/archives/tailscale-derp-server-deployment)
 - [猫鱼周刊 vol. 070 一切都要支付两次](https://ameow.xyz/archives/weekly-070)
-- [猫鱼周刊 vol. 069 高考不影响你的人生](https://ameow.xyz/archives/weekly-069)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
