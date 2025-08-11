@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076)
 - [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075)
 - [猫鱼周刊 vol. 074 浅谈Vibe Coding](https://ameow.xyz/archives/weekly-074)
 - [你不是在 vibe coding，而是在十倍速生成屎山](https://ameow.xyz/archives/vibe-coding-or-shit-generating)
 - [猫鱼周刊 vol. 073 Burnout 逃生指南](https://ameow.xyz/archives/weekly-073)
-- [Clauce Code 使用第三方 API 并优雅地完成多个供应商切换（如 Kimi K2等）](https://ameow.xyz/archives/claude-code-graceful-usage-with-third-party-api)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
