@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [优雅地在 crontab 中使用 nvm 运行 node 脚本](https://ameow.xyz/archives/use-nvm-to-run-node-scripts-in-crontab-gracefully)
 - [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076)
 - [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075)
 - [猫鱼周刊 vol. 074 浅谈Vibe Coding](https://ameow.xyz/archives/weekly-074)
 - [你不是在 vibe coding，而是在十倍速生成屎山](https://ameow.xyz/archives/vibe-coding-or-shit-generating)
-- [猫鱼周刊 vol. 073 Burnout 逃生指南](https://ameow.xyz/archives/weekly-073)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
