@@ -7,7 +7,7 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [优雅地在 crontab 中使用 nvm 运行 node 脚本](https://ameow.xyz/archives/use-nvm-to-run-node-scripts-in-crontab-gracefully)
+- [优雅地在 crontab 中运行脚本](https://ameow.xyz/archives/run-scripts-in-crontab-gracefully)
 - [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076)
 - [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075)
 - [猫鱼周刊 vol. 074 浅谈Vibe Coding](https://ameow.xyz/archives/weekly-074)
