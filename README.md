@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 077 Code For Fun](https://ameow.xyz/archives/weekly-077)
+- [博客装修之开源项目展示、关于页面](https://ameow.xyz/archives/blog-maintenance-showcase-and-about)
 - [优雅地在 crontab 中运行脚本](https://ameow.xyz/archives/run-scripts-in-crontab-gracefully)
 - [猫鱼周刊 vol. 076 看一场晚霞](https://ameow.xyz/archives/weekly-076)
 - [猫鱼周刊 vol. 075 开源和白嫖](https://ameow.xyz/archives/weekly-075)
-- [猫鱼周刊 vol. 074 浅谈Vibe Coding](https://ameow.xyz/archives/weekly-074)
-- [你不是在 vibe coding，而是在十倍速生成屎山](https://ameow.xyz/archives/vibe-coding-or-shit-generating)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
