@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ghostty 折腾小记](https://ameow.xyz/archives/configuring-ghostty)
 - [猫鱼周刊 vol. 080 中年人网购骗局](https://ameow.xyz/archives/weekly-080)
 - [猫鱼周刊 vol. 079 工作中应该摆烂吗？](https://ameow.xyz/archives/weekly-079)
 - [通过 git pre-commit hook 防止误提交二进制文件](https://ameow.xyz/archives/prevent-commiting-binaries-with-pre-commit-hook)
 - [猫鱼周刊 vol. 078 我的 Dev Portfolio](https://ameow.xyz/archives/weekly-078)
-- [猫鱼周刊 vol. 077 Code For Fun](https://ameow.xyz/archives/weekly-077)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
