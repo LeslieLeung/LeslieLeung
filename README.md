@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FFmpeg 硬件加速小记](https://ameow.xyz/archives/ffmpeg-hardware-acclerate)
+- [猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082)
 - [Colf 题解](https://ameow.xyz/archives/colf-solutions)
 - [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081)
 - [Ghostty 折腾小记](https://ameow.xyz/archives/configuring-ghostty)
-- [猫鱼周刊 vol. 080 中年人网购骗局](https://ameow.xyz/archives/weekly-080)
-- [猫鱼周刊 vol. 079 工作中应该摆烂吗？](https://ameow.xyz/archives/weekly-079)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
