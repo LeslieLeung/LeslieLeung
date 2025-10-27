@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084)
 - [猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083)
 - [FFmpeg 硬件加速小记](https://ameow.xyz/archives/ffmpeg-hardware-acclerate)
 - [猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082)
 - [Colf 题解](https://ameow.xyz/archives/colf-solutions)
-- [猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
