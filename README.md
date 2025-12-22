@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089)
 - [猫鱼周刊 vol. 088 两个 Linus 的史诗级会面](https://ameow.xyz/archives/weekly-088)
 - [猫鱼周刊 vol. 087 做一个 RSS 阅读器](https://ameow.xyz/archives/weekly-087)
 - [猫鱼周刊 vol. 086 走出迷茫](https://ameow.xyz/archives/weekly-086)
 - [猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085)
-- [Docker 服务器磁盘满排查思路](https://ameow.xyz/archives/troubleshooting-full-disk-on-docker-linux-machines)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
