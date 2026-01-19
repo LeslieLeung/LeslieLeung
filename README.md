@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091)
 - [PVE 使用 LXC 部署 Miloco](https://ameow.xyz/archives/deploy-miloco-on-pve-lxc)
 - [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090)
 - [猫鱼周刊 vol. 089 Vibe Engineering](https://ameow.xyz/archives/weekly-089)
 - [猫鱼周刊 vol. 088 两个 Linus 的史诗级会面](https://ameow.xyz/archives/weekly-088)
-- [猫鱼周刊 vol. 087 做一个 RSS 阅读器](https://ameow.xyz/archives/weekly-087)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
