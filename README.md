@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [猫鱼周刊 vol. 093 马年快乐](https://ameow.xyz/archives/weekly-093)
 - [带 Mermaid 的 Markdown 转 docx](https://ameow.xyz/archives/convert-markdown-with-mermaid-to-docx)
 - [猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092)
 - [猫鱼周刊 vol. 091 2026 新年快乐](https://ameow.xyz/archives/weekly-091)
 - [PVE 使用 LXC 部署 Miloco](https://ameow.xyz/archives/deploy-miloco-on-pve-lxc)
-- [猫鱼周刊 vol. 090 向大佬学习](https://ameow.xyz/archives/weekly-090)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
