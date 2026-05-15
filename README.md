@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 50 mins
+Total Time: 15 hrs 43 mins
 
-unknown      4 hrs 22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-TypeScript   3 hrs 10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Rust         2 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Markdown     1 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-SQL          1 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+unknown      4 hrs 7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+Markdown     2 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+SQL          2 hrs 6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+TypeScript   2 hrs 2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Rust         1 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
