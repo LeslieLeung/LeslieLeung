@@ -7,11 +7,11 @@
 
 #### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Hermes 在飞书打造 AI Agent 团队](https://ameow.xyz/archives/build-an-ai-agent-team-in-feishu)
 - [猫鱼周刊 vol. 097 五一快乐](https://ameow.xyz/archives/weekly-097)
 - [猫鱼周刊 vol. 096 AI 无法取代胶片](https://ameow.xyz/archives/weekly-096)
 - [猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095)
 - [把 SSH 私钥放进 YubiKey：一套更安全、可迁移的密钥管理方案](https://ameow.xyz/archives/secure-your-ssh-key-with-yubikey)
-- [猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⏱️ This week I spent my time on
