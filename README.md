@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 23 mins
+Total Time: 24 hrs 8 mins
 
-unknown           8 hrs 10 mins         ████████▓░░░░░░░░░░░░░░░░   34.91 %
-Markdown          4 hrs 59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-Go                3 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-C                 2 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-C++               0 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+unknown           8 hrs 27 mins         ████████▓░░░░░░░░░░░░░░░░   34.97 %
+Markdown          5 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+Go                3 hrs 6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+C                 2 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+YAML              0 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
