@@ -18,12 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hrs 12 mins
+Total Time: 0 hrs 4 mins
 
-unknown    0 hrs 43 mins         ██████████████▓░░░░░░░░░░   59.13 %
-Go         0 hrs 18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Python     0 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Markdown   0 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Go         0 hrs 4 mins          █████████████████████████   100.00 %
+Markdown   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
